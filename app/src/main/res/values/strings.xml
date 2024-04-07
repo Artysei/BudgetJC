@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BudgetJetpackCompose</string>
+    <string name="e_title">Название операции</string>
+    <string name="e_money">Сумма операции\n</string>
+    <string name="e_time">Дата операции\n</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="remove_dlg_title">Удаление операции</string>
+    <string name="remove_dlg_text">Вы действительно хотите удалить данную операцию?</string>
+    <string name="edit_budget">Редактирование операции</string>
+</resources>
